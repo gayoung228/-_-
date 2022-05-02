@@ -7,6 +7,8 @@ int main()
 	char room[101][101];
 	char c;
 
+	// test
+
 	scanf("%d", &n); 
 	scanf("%c", &c);
 	for (int i = 0; i < n; i++)
