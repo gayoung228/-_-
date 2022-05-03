@@ -8,6 +8,7 @@ int main()
 	char c;
 
 	// test
+	// test2
 
 	scanf("%d", &n); 
 	scanf("%c", &c);
@@ -75,3 +76,4 @@ int main()
 
 	return 0;
 }
+
